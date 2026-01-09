@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kaho
-- 👀 I’m interested in Digital arts, animations and video games.
-- 🌱 I’m currently learning Javascript and React
+- 👀 I’m interested in IT, Networking, Digital arts, animations and video games.
 - 📫 Reach me via my portfolio site.
 
 <!---
