@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Azusa89
+- 👋 Hi, I’m Kaho
 - 👀 I’m interested in Digital arts, animations and video games.
 - 🌱 I’m currently learning Javascript and React
 - 📫 Reach me via my portfolio site.
